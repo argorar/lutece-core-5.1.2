@@ -1,5 +1,6 @@
-
 # Lutece Project 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5694dec2a59f48299d6d7a5aa9491196)](https://www.codacy.com/app/argorar/lutece-core-5.1.2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=argorar/lutece-core-5.1.2&amp;utm_campaign=Badge_Grade)
 
 Lutece is a portal engine which allows you to easily create your websites or intranets based upon HTML,XML.. content. This open-source software is implemented in Java and based on widely used libraries and frameworks : Spring, Freemarker,Lucene, Ehcache, Jakarta-commons, ... . Lutece provides a user friendly interface for portal management and therefore no specific technical skills are required.
 
@@ -9,7 +10,7 @@ Lutece provides an highly modular architecture based on plugins. [See available 
 
 Languages available are for the moment English and French. French users are invited to consult the [french site](http://fr.lutece.paris.fr) .
 
-# Project Information
+## Project Information
 
  [Project Summary](http://dev.lutece.paris.fr/lutece-core/project-summary.html) : this document lists other related information of this project
 
