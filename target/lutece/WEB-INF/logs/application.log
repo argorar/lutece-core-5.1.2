@@ -1,0 +1,419 @@
+23/05/17 13:02:48 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:02:48 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 13:02:48 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 13:02:58 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 13:02:59 INFO  [Lutece-MainThread] lutece.event - AppLogServiceTest : JUnit message info test
+23/05/17 13:02:59 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:02:59 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 13:03:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:03:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:03:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:03:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:03:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:03:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 13:03:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:03:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 13:03:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 13:03:02 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 13:03:02 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 13:03:03 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:03:03 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:03:03 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 1915ms
+23/05/17 13:09:29 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:09:29 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 13:09:29 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 13:09:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:09:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 13:09:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:09:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 13:09:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 13:09:39 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 13:09:39 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 13:09:40 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:09:40 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:09:41 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2984ms
+23/05/17 13:09:41 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:09:41 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:09:41 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:09:41 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:09:41 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:09:42 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 13:09:43 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 13:10:45 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:10:45 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 13:10:45 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 13:10:54 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:10:54 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 13:10:54 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:10:54 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 13:10:54 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 13:10:55 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 13:10:56 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 13:10:57 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:10:57 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:10:58 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 4084ms
+23/05/17 13:10:58 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:10:58 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:10:58 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:10:58 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:10:59 INFO  [Lutece-MainThread] lutece.event - AppLogServiceTest : JUnit message info test
+23/05/17 13:10:59 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:10:59 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 13:11:00 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 13:12:16 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:12:16 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 13:12:16 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 13:12:26 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 13:12:26 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:12:26 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 13:12:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:12:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:12:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:12:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:12:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:12:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 13:12:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:12:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 13:12:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 13:12:29 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 13:12:29 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 13:12:30 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:12:30 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:12:30 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 1895ms
+23/05/17 13:24:55 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:24:55 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 13:24:55 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 13:25:48 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:25:48 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 13:25:48 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 13:26:14 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 13:26:14 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 13:26:14 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 13:26:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:26:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 13:26:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 13:26:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 13:26:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 13:26:24 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 13:26:24 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 13:26:25 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:26:25 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 13:26:26 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2870ms
+23/05/17 13:26:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:26:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:26:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 13:26:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 13:26:27 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 13:26:27 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:23:08 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:23:08 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:23:08 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:23:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:23:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:23:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:23:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:23:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:23:21 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:23:21 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:23:25 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:23:25 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:23:27 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 9093ms
+23/05/17 14:23:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:23:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:23:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:23:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:23:29 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 14:23:31 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:25:23 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:25:23 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:25:23 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:25:34 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:25:34 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 14:25:35 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:25:35 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:25:35 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:25:35 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:25:36 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:25:36 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:25:36 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:25:36 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:25:36 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:25:37 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:25:37 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:25:38 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:25:38 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:25:39 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 1967ms
+23/05/17 14:28:15 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:28:15 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:28:15 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:28:25 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:28:25 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 14:28:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:28:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:28:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:28:26 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:28:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:28:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:28:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:28:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:28:28 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:28:29 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:28:29 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:28:29 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:28:29 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:28:30 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2131ms
+23/05/17 14:30:40 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:30:40 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:30:40 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:30:50 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:30:50 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : testEnableXPageApplication
+23/05/17 14:30:51 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:30:51 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:30:51 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:30:51 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:30:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:30:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:30:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:30:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:30:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:30:54 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:30:54 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:30:54 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:30:54 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:30:55 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2278ms
+23/05/17 14:34:48 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:34:48 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:34:48 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:34:59 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:35:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:35:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:35:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:35:00 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:35:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:35:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:35:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:35:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:35:01 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:35:02 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:35:02 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:35:02 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:35:02 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:35:03 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 1987ms
+23/05/17 14:38:12 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:38:12 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:38:12 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:38:22 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:38:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:38:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:38:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:38:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:38:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:38:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:38:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:38:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:38:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:38:25 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:38:25 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:38:26 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:38:26 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:38:26 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2203ms
+23/05/17 14:44:54 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:44:54 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:44:54 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:45:04 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.web.xpages.SiteMapCacheService
+23/05/17 14:45:05 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:45:05 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:45:05 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:45:05 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:45:06 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:45:06 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:45:06 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:45:06 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:45:06 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:45:07 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:45:07 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:45:08 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:45:08 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:45:09 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2670ms
+23/05/17 14:53:41 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:53:41 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:53:41 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:53:52 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:53:52 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:53:52 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:53:52 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:53:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:53:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:53:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:53:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:53:53 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:53:54 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:53:54 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:53:55 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:53:55 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:53:56 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2224ms
+23/05/17 14:56:37 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:56:37 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:56:37 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 14:56:46 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:56:46 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 14:56:46 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 14:56:46 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 14:56:46 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 14:56:47 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 14:56:47 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 14:56:48 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:56:48 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 14:56:49 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2755ms
+23/05/17 14:56:49 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:56:49 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:56:49 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 14:56:49 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 14:59:40 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 14:59:40 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 14:59:40 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:10:29 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:10:29 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:10:29 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:10:37 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:10:37 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:10:37 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:10:37 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:10:37 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:10:38 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 15:10:38 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 15:10:39 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:10:39 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:10:40 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2701ms
+23/05/17 15:10:40 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:10:40 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:10:40 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:10:40 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:14:00 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:14:00 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:14:00 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:14:10 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:14:10 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:14:10 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:14:10 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:14:11 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:14:11 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:14:11 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:14:11 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:14:11 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:14:12 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 15:14:12 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 15:14:13 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:14:13 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:14:14 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2015ms
+23/05/17 15:15:12 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:15:12 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:15:12 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:15:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:15:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:15:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:15:23 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:15:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:15:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:15:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:15:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:15:24 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:15:25 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 15:15:25 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 15:15:26 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:15:26 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:15:26 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 1956ms
+23/05/17 15:15:50 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:15:50 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:15:50 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:16:01 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:16:01 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:16:01 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:16:01 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:16:02 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:16:02 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:16:02 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:16:02 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:16:02 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:16:03 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 15:16:03 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 15:16:04 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:16:04 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:16:04 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2013ms
+23/05/17 15:17:05 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:17:05 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:17:05 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:17:15 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:17:15 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:17:15 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:17:15 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:17:16 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:17:16 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:17:16 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:17:16 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:17:16 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:17:17 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+23/05/17 15:17:17 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+23/05/17 15:17:18 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:17:18 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+23/05/17 15:17:19 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 2221ms
+23/05/17 15:20:12 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:20:12 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:20:12 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:20:22 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:20:22 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:20:22 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:20:22 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:20:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:20:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:20:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:20:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:20:23 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:21:27 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:21:27 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:21:27 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:21:38 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:23:06 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:23:06 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:23:06 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:23:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:23:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:23:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:23:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:23:18 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:23:18 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:23:18 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:23:18 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:23:18 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:24:08 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 15:24:08 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 15:24:08 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 15:24:17 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 17:55:18 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+23/05/17 17:55:18 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+23/05/17 17:55:18 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+23/05/17 17:55:27 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
