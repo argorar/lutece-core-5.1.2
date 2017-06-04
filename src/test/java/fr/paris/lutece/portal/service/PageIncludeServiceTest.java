@@ -33,11 +33,14 @@
  */
 package fr.paris.lutece.portal.service;
 
+import org.junit.Ignore;
+
 import fr.paris.lutece.test.LuteceTestCase;
 
 
 public class PageIncludeServiceTest extends LuteceTestCase
 {
+	@Ignore
     public void testPageIncludes(  )
     {
     	assertEquals(true, true);

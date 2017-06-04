@@ -48,23 +48,19 @@
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/business/right/RightTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/plugin/PluginFileTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/html/EncodingServiceTest.java
-/home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/admin/AdminPagePortletJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/business/rbac/AdminRoleTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/template/FreeMarkerTemplateServiceTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/util/sql/TransactionTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/i18n/I18nServiceTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/html/HtmlCleanerServiceTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/util/beanvalidation/BeanLuteceMessages.java
-/home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/admin/AdminJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/business/datastore/DataEntityTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/insert/InsertServiceSelectorJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/role/RoleJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/business/rbac/RBACTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/system/CacheJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/message/AdminMessageServiceTest.java
-/home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/admin/AdminMenuJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/search/SearchAppTest.java
-/home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/admin/AdminMapJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/style/PageTemplatesJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/util/AppPathServiceTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/util/beanvalidation/BeanDefaultMessages.java
@@ -77,7 +73,6 @@
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/includes/PageIncludeServiceTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/security/MokeLuteceUser.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/security/LuteceUserTest.java
-/home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/admin/AdminPageJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/business/style/PageTemplateTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/portal/PortalServiceTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/business/prefs/UserPreferencesDAOTest.java
@@ -93,4 +88,3 @@
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/system/SystemJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/insert/MokeInsertServiceJspBean.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/business/page/PageDAOTest.java
-/home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/admin/AdminMessageJspBeanTest.java

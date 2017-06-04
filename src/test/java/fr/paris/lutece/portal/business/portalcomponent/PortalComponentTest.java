@@ -33,11 +33,14 @@
  */
 package fr.paris.lutece.portal.business.portalcomponent;
 
+import org.junit.Ignore;
+
 import fr.paris.lutece.test.LuteceTestCase;
 
 
 public class PortalComponentTest extends LuteceTestCase
 {
+	@Ignore
     public void testBusinessPortalComponent(  )
     {
       assertEquals(true, true);
