@@ -574,3 +574,195 @@ param1 : "AZ"
 param2 : "09"
 ** Request headers  **
 
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : ">"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : ">"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "<"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "<"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "#"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "#"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : """
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : """
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+

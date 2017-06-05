@@ -34,3 +34,15 @@
 04/06/17 18:04:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
 04/06/17 18:04:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
 04/06/17 18:04:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+04/06/17 19:24:08 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+04/06/17 19:24:08 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+04/06/17 19:24:08 INFO  [Lutece-MainThread] lutece.event - Running version 5.1.2
+04/06/17 19:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+04/06/17 19:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter1
+04/06/17 19:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter
+04/06/17 19:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter2
+04/06/17 19:24:17 INFO  [Lutece-MainThread] lutece.event - New Filter registered : filter0
+04/06/17 19:24:18 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude
+04/06/17 19:24:18 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+04/06/17 19:24:18 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude (disabled)
+04/06/17 19:24:18 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : testEnablePageInclude

@@ -1603,3 +1603,538 @@ param2 : "09"
 04/06/17 18:04:58 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.percent' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
 04/06/17 18:04:58 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.description' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
 04/06/17 18:04:58 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.description' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:17 ERROR [Lutece-MainThread] lutece.error - fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:126)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:98)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:155)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:202)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:120)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:92)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:81)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:150)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:112)
+	at fr.paris.lutece.test.LuteceTestCase.setUp(LuteceTestCase.java:85)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+
+04/06/17 19:24:17 ERROR [Lutece-MainThread] lutece.error - fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:126)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:98)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:155)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:202)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:120)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:92)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:81)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:150)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:112)
+	at fr.paris.lutece.test.LuteceTestCase.setUp(LuteceTestCase.java:85)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+
+04/06/17 19:24:17 ERROR [Lutece-MainThread] lutece.error - Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:126)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:98)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:155)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:202)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:120)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:92)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:81)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:150)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:112)
+	at fr.paris.lutece.test.LuteceTestCase.setUp(LuteceTestCase.java:85)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+04/06/17 19:24:17 ERROR [Lutece-MainThread] lutece.error - Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:126)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:98)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:155)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:202)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:120)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:92)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:81)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:150)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:112)
+	at fr.paris.lutece.test.LuteceTestCase.setUp(LuteceTestCase.java:85)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+04/06/17 19:24:17 ERROR [Lutece-MainThread] lutece.error - Error initializing pool : Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+fr.paris.lutece.portal.service.init.LuteceInitException: Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:208)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:120)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:92)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:81)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:150)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:112)
+	at fr.paris.lutece.test.LuteceTestCase.setUp(LuteceTestCase.java:85)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:126)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:98)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:155)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:202)
+	... 21 more
+04/06/17 19:24:17 ERROR [Lutece-MainThread] lutece.error - Error initializing pool : Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+fr.paris.lutece.portal.service.init.LuteceInitException: Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:208)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:120)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:92)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:81)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:150)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:112)
+	at fr.paris.lutece.test.LuteceTestCase.setUp(LuteceTestCase.java:85)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:126)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:98)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:155)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:202)
+	... 21 more
+04/06/17 19:24:18 ERROR [Lutece-MainThread] lutece.error - fr.paris.lutece.portal.service.util.NoDatabaseException: Database access error. Please check component installations and db.properties.
+
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:147)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:120)
+	at fr.paris.lutece.portal.business.datastore.DataEntityDAO.load(DataEntityDAO.java:78)
+	at fr.paris.lutece.portal.business.datastore.DataEntityHome.findByPrimaryKey(DataEntityHome.java:97)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getDataValue(DatastoreService.java:100)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getInstanceDataValue(DatastoreService.java:135)
+	at fr.paris.lutece.portal.web.l10n.LocaleService.getDefault(LocaleService.java:105)
+	at fr.paris.lutece.portal.service.template.FreeMarkerTemplateServiceTest.testLoadTemplate(FreeMarkerTemplateServiceTest.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at junit.framework.TestCase.runTest(TestCase.java:176)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+
+04/06/17 19:24:18 ERROR [Lutece-MainThread] lutece.error - fr.paris.lutece.portal.service.util.NoDatabaseException: Database access error. Please check component installations and db.properties.
+
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:147)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:120)
+	at fr.paris.lutece.portal.business.datastore.DataEntityDAO.load(DataEntityDAO.java:78)
+	at fr.paris.lutece.portal.business.datastore.DataEntityHome.findByPrimaryKey(DataEntityHome.java:97)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getDataValue(DatastoreService.java:100)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getInstanceDataValue(DatastoreService.java:135)
+	at fr.paris.lutece.portal.web.l10n.LocaleService.getDefault(LocaleService.java:105)
+	at fr.paris.lutece.portal.service.template.FreeMarkerTemplateServiceTest.testLoadTemplate(FreeMarkerTemplateServiceTest.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at junit.framework.TestCase.runTest(TestCase.java:176)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+
+04/06/17 19:24:18 ERROR [Lutece-MainThread] lutece.error - ##### CRITICAL ERROR ##### : Datastore has been disabled due to a NoDatabaseException catched
+fr.paris.lutece.portal.service.util.NoDatabaseException: Database access error. Please check component installations and db.properties.
+
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:147)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:120)
+	at fr.paris.lutece.portal.business.datastore.DataEntityDAO.load(DataEntityDAO.java:78)
+	at fr.paris.lutece.portal.business.datastore.DataEntityHome.findByPrimaryKey(DataEntityHome.java:97)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getDataValue(DatastoreService.java:100)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getInstanceDataValue(DatastoreService.java:135)
+	at fr.paris.lutece.portal.web.l10n.LocaleService.getDefault(LocaleService.java:105)
+	at fr.paris.lutece.portal.service.template.FreeMarkerTemplateServiceTest.testLoadTemplate(FreeMarkerTemplateServiceTest.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at junit.framework.TestCase.runTest(TestCase.java:176)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+04/06/17 19:24:18 ERROR [Lutece-MainThread] lutece.error - ##### CRITICAL ERROR ##### : Datastore has been disabled due to a NoDatabaseException catched
+fr.paris.lutece.portal.service.util.NoDatabaseException: Database access error. Please check component installations and db.properties.
+
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:147)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:120)
+	at fr.paris.lutece.portal.business.datastore.DataEntityDAO.load(DataEntityDAO.java:78)
+	at fr.paris.lutece.portal.business.datastore.DataEntityHome.findByPrimaryKey(DataEntityHome.java:97)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getDataValue(DatastoreService.java:100)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getInstanceDataValue(DatastoreService.java:135)
+	at fr.paris.lutece.portal.web.l10n.LocaleService.getDefault(LocaleService.java:105)
+	at fr.paris.lutece.portal.service.template.FreeMarkerTemplateServiceTest.testLoadTemplate(FreeMarkerTemplateServiceTest.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at junit.framework.TestCase.runTest(TestCase.java:176)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+04/06/17 19:24:18 ERROR [Lutece-MainThread] lutece.error - LocaleService : invalid defined locale en - default set to en
+04/06/17 19:24:18 ERROR [Lutece-MainThread] lutece.error - LocaleService : invalid defined locale en - default set to en
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : ">"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : ">"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "<"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "<"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "#"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : "#"
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : XSS CHARACTERS DETECTED
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : """
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 WARN  [Lutece-MainThread] security.http - SECURITY WARNING : INVALID REQUEST PARAMETERS
+ Request Dump : 
+** Request variables  **
+AUTH_TYPE : ""
+REQUEST_METHOD : ""
+PATH_INFO : ""
+PATH_TRANSLATED : ""
+QUERY_STRING : ""
+REQUEST_URI : ""
+SCRIPT_NAME : ""
+LOCAL_ADDR : ""
+SERVER_PROTOCOL : ""
+REMOTE_ADDR : ""
+REMOTE_HOST : ""
+HTTPS : ""
+SERVER_NAME : ""
+SERVER_PORT : "0"
+** Request parameters  **
+param3 : "az"
+param4 : """
+param1 : "AZ"
+param2 : "09"
+** Request headers  **
+
+04/06/17 19:24:20 INFO  [Lutece-MainThread] util.Version - Hibernate Validator 4.2.0.Final
+04/06/17 19:24:21 INFO  [Lutece-MainThread] xml.ValidationXmlParser - META-INF/validation.xml found. Parsing XML based configuration.
+04/06/17 19:24:21 INFO  [Lutece-MainThread] xml.ValidationXmlParser - Using fr.paris.lutece.util.beanvalidation.LuteceMessageInterpolator as message interpolator.
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.age' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.age' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.email' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.email' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateEndOfWorld' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateEndOfWorld' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.description' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.description' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateBirth' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateBirth' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.currency' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.currency' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.percent' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.percent' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.url' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.url' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.salary' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.salary' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.url' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.url' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.currency' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.currency' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.age' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.age' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateEndOfWorld' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateEndOfWorld' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateBirth' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.dateBirth' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.description' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.description' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.email' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.email' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.salary' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.salary' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.percent' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.percent' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr
+04/06/17 19:24:22 ERROR [Lutece-MainThread] lutece.error - Error localizing key : 'fields_prefix.name' - Can't find bundle for base name fr.paris.lutece.plugins.fields_prefix.resources.fields_prefix_messages, locale fr

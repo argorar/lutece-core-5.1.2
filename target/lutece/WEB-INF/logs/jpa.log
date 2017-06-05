@@ -7,3 +7,6 @@
 04/06/17 18:04:57 INFO  [Lutece-MainThread] util.Version - Hibernate Validator 4.2.0.Final
 04/06/17 18:04:57 INFO  [Lutece-MainThread] xml.ValidationXmlParser - META-INF/validation.xml found. Parsing XML based configuration.
 04/06/17 18:04:57 INFO  [Lutece-MainThread] xml.ValidationXmlParser - Using fr.paris.lutece.util.beanvalidation.LuteceMessageInterpolator as message interpolator.
+04/06/17 19:24:20 INFO  [Lutece-MainThread] util.Version - Hibernate Validator 4.2.0.Final
+04/06/17 19:24:21 INFO  [Lutece-MainThread] xml.ValidationXmlParser - META-INF/validation.xml found. Parsing XML based configuration.
+04/06/17 19:24:21 INFO  [Lutece-MainThread] xml.ValidationXmlParser - Using fr.paris.lutece.util.beanvalidation.LuteceMessageInterpolator as message interpolator.

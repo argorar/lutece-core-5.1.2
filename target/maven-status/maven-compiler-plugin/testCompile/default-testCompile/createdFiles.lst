@@ -60,7 +60,6 @@ fr/paris/lutece/portal/service/insert/InsertServiceManagerTest.class
 fr/paris/lutece/portal/service/content/XPageAppServiceTest$TestXPageApplication.class
 fr/paris/lutece/portal/web/search/SearchIndexationJspBeanTest.class
 fr/paris/lutece/portal/service/security/MokeLuteceUser.class
-fr/paris/lutece/portal/web/style/ModesJspBeanTest.class
 fr/paris/lutece/portal/business/right/RightTest.class
 fr/paris/lutece/portal/business/style/StyleTest.class
 fr/paris/lutece/portal/service/filter/FilterServiceTest.class

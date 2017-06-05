@@ -3,7 +3,6 @@
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/StandaloneAppJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/spring/SpringContextServiceTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/datastore/DatastoreServiceTest.java
-/home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/style/ModesJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/web/features/ExternalFeaturesJspBeanTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/util/ReferenceListTest.java
 /home/sebastian/java_projects/lutece-core-5.1.2/src/test/java/fr/paris/lutece/portal/service/prefs/AdminUserPreferencesServiceTest.java
